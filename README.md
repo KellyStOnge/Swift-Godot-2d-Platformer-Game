@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the 2D Platformer Game, a thrilling adventure developed using the Godot gaming engine and exported to Xcode. In this game, players embark on an exciting journey through various levels, jumping on enemies and collecting coins to achieve their objective.
+Welcome to the 2D Platformer Game, a thrilling adventure developed using the Godot gaming engine and exported to Xcode. In this game, players embark on an exciting journey through a small level, jumping on enemies and collecting coins to achieve their objective.
 
 ## Features
 
@@ -10,7 +10,6 @@ Welcome to the 2D Platformer Game, a thrilling adventure developed using the God
 - **Jumping Mechanics:** Navigate through obstacles and enemies by jumping with precise timing.
 - **Enemy Interaction:** Players can jump on enemies to defeat them and progress through the levels.
 - **Coin Collection:** Collect coins scattered throughout the levels to earn points and unlock achievements.
-- **Multiple Levels:** Explore different levels with increasing difficulty and unique environments.
 - **Exported to Xcode:** The game is exported to Xcode, allowing for easy deployment on iOS devices.
 
 ## Installation
