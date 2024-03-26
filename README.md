@@ -1,7 +1,3 @@
-Of course! Here's a README.md file for your 2D platformer game developed using the Godot gaming engine and exported to Xcode:
-
----
-
 # 2D Platformer Game
 
 ## Overview
